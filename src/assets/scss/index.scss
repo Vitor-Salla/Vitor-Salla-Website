@@ -1,0 +1,131 @@
+@import "main";
+@import "timeline";
+@import "scrollDown";
+
+.home-image {
+  background-image: url("../images/james-webb.webp");
+
+  min-height: 95vh;
+
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  filter: brightness(40%);
+}
+
+.introduction {
+  position: relative;
+  top: -80px;
+}
+
+.who-I-am-text {
+  position: relative;
+  text-align: justify;
+  font-size: 17px;
+  top: -30px;
+}
+
+@media (min-width: 576px) {
+  .who-I-am-text {
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+  }
+}
+
+.fade-in {
+  opacity: 0;
+}
+
+.appear {
+  opacity: 1;
+  transition: opacity 600ms ease-in;
+}
+
+.card-title {
+  color: $contrast;
+}
+
+.card-subtitle {
+  color: $dark;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 18px;
+}
+
+.progress {
+  margin-top: 50px;
+  height: 30;
+}
+
+.progress-bar {
+  background-color: $contrast;
+  transition-duration: 2s;
+  width: 0%;
+}
+
+.progress-bar-text {
+  text-align: left;
+  vertical-align: middle;
+  padding-left: 15px;
+  padding-top: 3px;
+}
+
+.skill-description {
+  margin-top: 10px;
+  padding: 10px;
+  border-radius: 10px;
+  border: 2px solid $primary;
+}
+
+.flip {
+  transform: scaleX(-1);
+  display: inline-block;
+}
+
+.show-more {
+  position: relative;
+  top: -50px;
+  color: $dark;
+  font-size: 18px;
+  background-color: transparent;
+  border-style: none;
+}
+
+.show-more::after {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  background-color: $contrast;
+  width: 0%;
+  content: "";
+  height: 4px;
+  transition: all 0.5s;
+}
+
+.show-more:hover::after {
+  width: 100%;
+}
+
+#home {
+  position: relative;
+  top: -50px;
+}
+
+#home-quote {
+  position: relative;
+  height: 100px;
+  bottom: 55vh;
+}
+
+#who-I-am {
+  position: relative;
+  top: -180px;
+}
+
+#skills {
+  position: relative;
+  top: -120px;
+}

@@ -1,0 +1,38 @@
+{
+  "2000": {
+    "subtitle": "Onde tudo começou",
+    "body": "Meus pais nasceram e cresceram no interior de Santa Catarina. Lá eles viviam como agricultores, porém o lugar era muito remoto e as terras difíceis de cultivar. Após casarem, eles decidiram buscar condições melhores no território gaúcho, onde vieram parar na zona rural de Viamão. Alguns anos após, em 2000, eu nasci."
+  },
+  "2005": {
+    "subtitle": "Os primeiros passos",
+    "body": "Neste ano eu ingressei na Escola Estadual de Ensino Médio Francisco Canquerini, perto da minha casa. Foi nesse colégio onde eu iria estudar durante todo o ensino fundamental e ensino médio."
+  },
+  "2014": {
+    "subtitle": "Último ano do Fundamental",
+    "body": "Foi neste ano que tirei minha primeira nota abaixo da média — em matemática. Estudava sempre o mínimo, e nisso acabei tendo alguns conflitos em específico com a professora dessa matéria, o que fez com que ela me desse uma nota abaixo por mal comportamento. Nessa época eu já tocava violão e passava muito tempo no computador jogando jogos e pesquisando coisas aleatórias (com uma internet de 100kbps que me perseguiu até a vida adulta). Passava muitas horas jogando Minecraft e tive meus primeiros contatos com programação e lógica (Fazendo circuitos no próprio Minecraft e tentando fazer ataques DDOS em sites aleatórios)."
+  },
+  "2015": {
+    "subtitle": "Primeiro ano do ensino médio",
+    "body": "Aqui minha vida mudou completamente. Passei a estudar no turno da manhã e a trabalhar esporadicamente durante a tarde com o meu pai na lavoura. Foi uma experiência muito enriquecedora para mim. Aqui comecei a trabalhar com máquinas agrícolas de grande porte (tratores e colheitadeiras), aprendi conceitos básicos de mecânica, técnicas de cultivo de lavouras e desenvolvi habilidades de trabalho em equipe."
+  },
+  "2018": {
+    "subtitle": "Vida Adulta ",
+    "body": "Já formado no ensino médio, acabei por não conseguir a vaga que estava buscando na universidade federal. Nesse meio tempo, fiquei trabalhando com meu pai até decidir o que iria fazer. Foi então que no segundo semestre de 2018 ingressei na faculdade de Engenharia de Controle e Automação na Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS). Cheguei à conclusão de que eu deveria investir em algo não relativo à agricultura para me experimentar.\n O primeiro semestre na faculdade me deixou deslumbrado. Todas as possibilidades e tecnologias eram uma fonte infinita pra eu saciar a sede da minha curiosidade. Logo nessa época eu consegui meu primeiro emprego na área e comecei a trabalhar com montagem de circuitos em uma empresa de automação residencial de Porto Alegre. Nisso, me mudei para a cidade e passei a morar com mais um colega."
+  },
+  "2019": {
+    "subtitle": "Em busca de respostas",
+    "body": "Aqui comecei a estudar assuntos não relacionados a faculdade. Eu que nunca tinha sido muito fã de leituras passei a ler livros dos mais diversos temas como filosofia, investimentos e ciência. Ler acabou tomando um grande espaço na minha vida, algo que faço diariamente até hoje. \nAinda no final desse ano acabei largando o meu trabalho pra ir fazer pesquisa em um laboratório da minha universidade, o GACS (Grupo de Automação e Controle de Sistemas). Lá tive meu primeiro contato com metodologia cientifica e fiz pesquisa na área de eletrônica de potência, desenvolvendo inversores. Participar do GACS foi uma das experiências cruciais no meu amadurecimento. Conheci pessoa incríveis e aprendi muita coisa."
+  },
+  "2020": {
+    "subtitle": "O desastre",
+    "body": "Tudo estava indo muito bem, eu ia começar um estágio em um projeto da Petrobras em parceria com o meu grupo de pesquisa e estava iniciando uma empresa com alguns amigos. Porém, com a chegada da pandemia, a verba da Petrobras destinada a pesquisa foi cortada e a empresa com meus amigos não teve continuidade. No meio disso, dado o modelo de aulas remoto, me mudei para a casa da minha família no litoral para estudar — já que na casa dos meus pais a internet ainda era de 100kbps."
+  },
+  "2021": {
+    "subtitle": "Gerdau",
+    "body": "Um certo dia recebi um e-mail sobre uma oportunidade de estágio na Gerdau. Decidi me inscrever e, após passar pelo processo seletivo, iniciei como estagiário na Aciaria da Usina Riograndense, voltando para Porto Alegre.  Foi uma experiência muito intensa. Meu objetivo lá era tentar trazer conceitos de indústria 4.0 para minha área. Nisso conduzi os meus primeiros projetos voltados a dados. Um deles foi um projeto de telemetria do maquinário, onde eu fiquei responsável pela implementação do sistema nas máquinas, instruir a operação a utilizar de forma correta os equipamentos, coletar os dados e obter insights."
+  },
+  "2022": {
+    "subtitle": "A paixão por dados",
+    "body": "Ainda no final de 2021, um amigo me convidou para trabalhar como Analista de Dados dentro da Math Group. Fiquei muito animado com a oportunidade e aceitei o desafio. Estou atualmente trabalhando como Digital Analytics Jr dentro da Math Marketing, e aqui comecei a gostar muito da área de ciência de dados. Com a intenção de me capacitar no assunto, iniciei uma certificação de Ciência de Dados pela PUCRS. Além disso, finalizei uma certificação de Liderança e Gestão de Equipe, comecei a estudar algumas linguagens de programação e a desenvolver alguns projetos pessoais em paralelo."
+  }
+}

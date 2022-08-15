@@ -1,0 +1,37 @@
+{
+  "pandas": {
+    "title": "Pandas (Python)",
+    "value": "90",
+    "description": "Comecei a utilizar o Pandas dentro da Math Group. Nisso usei a biblioteca quase que diariamente, tratando bases e fazendo análises exploratórias. Nessa área já realizei o curso Python for Data Science and Machine Learning Bootcamp na Udemy."
+  },
+  "Power-BI": {
+    "title": "Power BI",
+    "value": "80",
+    "description": "Passei a usar o Power BI no início de 2021 quando estava trabalhando na Gerdau. Lá eu fiz vários relatórios adhoc, o que foi um ótimo primeiro contato com a ferramenta e um grande aprendizado sobre conceitos de dataviz. Porém, nessa época, os relatórios que eu fazia possuiam um nível de complexidade baixo. Quando comecei a trabalhar na Math, surgiu a necessidade de construir dashboards mais robustos e automatizados, foi então que passei a trabalhar com relatórios que possuiam um número de tabelas maior e passei a pensar na estrutura das relações e no tratamento dos dados."
+  },
+  "inglês": {
+    "title": "Inglês",
+    "value": "75",
+    "description": "Ainda no primeiro ano do ensino médio comecei um curso de inglês presencial. Fiz o curso durante dois anos e meio, o que me ajudou a ter uma boa base. Com a pandemia, eu decidi tentar uma bolsa para fazer pesquisa durante 6 meses no Canadá (ELAP), e foi nesse momento que eu realmente me dediquei a aprender a lingua. Li vários livros em inglês, passei a ter o hábito de escutar podcasts e assistir séries 100% em inglês, além de me comunicar sempre que possível com estrangeiros. Nisso, fiz algumas aulas particulares com professores dos EUA e pratiquei bastante minha escrita. Ao fazer a prova de proeficiência da PUCRS (oral e escrita) para ir para o Canadá tirei uma nota 8 de 10."
+  },
+  "SQL": {
+    "title": "SQL",
+    "value": "50",
+    "description": "Como eu aprendi o Pandas primeiro, tenho mais familiaridade com a sintaxe do Python e sempre preferi utilizar ele em relação ao SQL. Contudo, com a utilização do Salesforce por alguns clientes, que só aceita SQL, e em conjunto com minha vontade de me explorar na linguagem, acabei por aprender SQL para atender algumas demandas específicas."
+  },
+  "web-front": {
+    "title": "Javascript, HTML e CSS",
+    "value": "50",
+    "description": "Comecei criar projetos front-end usando Javascript, HMTL e CSS por hobbie. Um exemplo é esse próprio site, que fiz em cima do framework Bootstrap e implementando grande parte das animações em Javascript. Relativo à capacitações, fiz 50 horas do curso Curso Web Moderno Completo com JavaScript 2022 + Projetos na Udemy."
+  },
+  "Matlab": {
+    "title": "Matlab",
+    "value": "40",
+    "description": "Utilizei o Matlab durante a minha pesquisa e na graduação. Nele, criei vários algoritmos matemáticos."
+  },
+  "C": {
+    "title": "C e C++",
+    "value": "30",
+    "description": "Durante a graduação utilizei a linguagem C principalmente para programação de microcontroladores. Já o C++, criei alguns programas para realizar algumas tarefas simples no Qt Creator."
+  }
+}
